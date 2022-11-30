@@ -1,7 +1,6 @@
 {
   "dependencies": {
-    "got-scraping": "^3.2.12",
-    "ts-node-dev": "^2.0.0"
+    "got-scraping": "^3.2.12"
   },
   "name": "@fillipe143/js-search",
   "version": "1.0.2",
@@ -14,5 +13,8 @@
   },
   "author": "Fillipe143",
   "license": "MIT",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0"
+  }
 }
