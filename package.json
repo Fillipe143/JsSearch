@@ -3,7 +3,7 @@
     "got-scraping": "^3.2.12"
   },
   "name": "@fillipe143/js-search",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "src/index.js",
   "types": "src/index.d.ts",
   "scripts": {
